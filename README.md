@@ -13,22 +13,22 @@
     <ul style="list-style-type: none; padding: 0;">
         <li style="background: #e2e2e2; margin: 5px 0; padding: 10px; border-radius: 5px;">
             <a href="https://github.com/ibrahimhalilakgl/C-Kosullu-Problemler-2/blob/main/problem1.c" style="text-decoration: none; color: #333; font-weight: bold;">
-                1. Alışveriş Tutarına Göre Kargo Ücreti Hesaplama
+                1. Bir alışveriş sitesinde 100 TL ve üzerine kargo bedava iken 100 TL altındaki alışverişlerde ise 20 TL kargo ücreti alınmaktadır. Buna göre kullanıcıdan alışveriş tutarını alıp, kargo ücreti dahil ödemesi gereken toplam tutarını ekrana yazdırınız
             </a>
         </li>
         <li style="background: #e2e2e2; margin: 5px 0; padding: 10px; border-radius: 5px;">
             <a href="https://github.com/ibrahimhalilakgl/C-Kosullu-Problemler-2/blob/main/problem2.c" style="text-decoration: none; color: #333; font-weight: bold;">
-                2. Vücut Kitle Endeksi Hesaplama ve Değerlendirme
+                2. Kullanıcıdan alınan boy(metre) ve kilo(kg) bilgisine göre kilo durumunu değerlendirip ekrana yazdırınız.Vücut kitle endeksi formülü VKİ = kg/(boy*boy)
             </a>
         </li>
         <li style="background: #e2e2e2; margin: 5px 0; padding: 10px; border-radius: 5px;">
             <a href="https://github.com/ibrahimhalilakgl/C-Kosullu-Problemler-2/blob/main/problem2.c" style="text-decoration: none; color: #333; font-weight: bold;">
-                3. Girilen Karakterin Türünü Belirleme (ASCII)
+                3. Kullanıcıdan bir karakter girişi alan ve bu karakterin bir harf, rakam veya özel bir karakter olduğunu belirleyen bir program yazın (ASCII tablosunu kullanarak)
             </a>
         </li>
         <li style="background: #e2e2e2; margin: 5px 0; padding: 10px; border-radius: 5px;">
             <a href="https://github.com/ibrahimhalilakgl/C-Kosullu-Problemler-2/blob/main/problem4.c" style="text-decoration: none; color: #333; font-weight: bold;">
-                4. Sayının Tek-Çift ve Bölünebilirlik Durumunu Kontrol Etme
+                4. Kullanıcıdan alınan sayının tek veya çift sayı olduğunu, ayrıca tek ise 3’e tam bölünüp bölünmediğini, çift ise 6’ya tam bölünüp bölünmediğini yazdıran programı yazınız
             </a>
         </li>
     </ul>
